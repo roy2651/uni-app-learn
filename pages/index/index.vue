@@ -1,5 +1,6 @@
 <template>
 	<u-swiper :list="list1" @change="change" @click="click"></u-swiper>
+	<view>123</view>
 </template>
 
 <script>
