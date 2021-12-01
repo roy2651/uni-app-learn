@@ -39,10 +39,9 @@
 			}
 
 		}, {
-			"path": "pages/cart/cart",
+			"path": "pages/goods/goods-detail/goods-detail",
 			"style": {
-				"navigationBarTitleText": "",
-				"enablePullDownRefresh": false
+				"navigationBarTitleText": "商品详情"
 			}
 
 		}
